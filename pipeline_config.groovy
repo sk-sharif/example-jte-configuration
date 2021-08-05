@@ -6,6 +6,6 @@
 */
 libraries{
 //   merge = true 
-  vars
+//   vars
 //   sonarqube
 }
