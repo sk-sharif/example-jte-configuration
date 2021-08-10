@@ -6,6 +6,6 @@
 */
 libraries{
 //   merge = true 
-      gradle
+      maven
 //   sonarqube
 }
